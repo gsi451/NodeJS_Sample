@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "wjdgu87",
+    "database": "loginDB",
+    "host": "192.168.1.91",
+    "port": "7093",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "wjdgu87",
+    "database": "loginDB",
+    "host": "192.168.1.91",
+    "port": "7093",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "wjdgu87",
+    "database": "loginDB",
+    "host": "192.168.1.91",
+    "port": "7093",
+    "dialect": "mysql"
+  }
+}
